@@ -1,0 +1,7 @@
+*{padding:0;margin:0}
+
+ul,li{list-style: none;}
+
+body{opacity: 0.1;background:url('../images/001.JPG')}
+#div{transform:rotate(30);width:100px;height: 100px;background-color: yellow;}
+a{color:#666}

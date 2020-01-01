@@ -1,0 +1,38 @@
+{
+  "name": "webpack_demo",
+  "version": "1.0.0",
+  "description": "<!--\r  * @Descripttion: \r  * @version: \r  * @Author: youname\r  * @Date: 2020-01-01 09:43:58\r  * @Email: rufeike@163.com\r  -->\r # webpack使用\r >主要用于代码打包，使用各种loader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rufeike/webpack_demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rufeike/webpack_demo/issues"
+  },
+  "homepage": "https://github.com/rufeike/webpack_demo#readme",
+  "devDependencies": {
+    "@babel/core": "^7.7.7",
+    "@babel/preset-env": "^7.7.7",
+    "autoprefixer": "^9.7.3",
+    "babel-loader": "^8.0.6",
+    "css-loader": "^3.4.0",
+    "eslint": "^6.8.0",
+    "eslint-loader": "^3.0.3",
+    "file-loader": "^5.0.2",
+    "jquery": "^3.4.1",
+    "postcss-loader": "^3.0.0",
+    "style-loader": "^1.1.2",
+    "url-loader": "^3.0.0",
+    "webpack": "^4.41.5",
+    "webpack-cli": "^3.3.10",
+    "webpack-dev-server": "^3.10.1"
+  }
+}
